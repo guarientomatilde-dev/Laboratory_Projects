@@ -1,1 +1,1 @@
-Projects developed during the Bachelor's degree in Physics at the University of Padua.
+Projects developed as part of the Physics Experiments 1 course at the University of Padua.
